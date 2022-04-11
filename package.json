@@ -12,7 +12,7 @@
     "@types/react": "17.0.19",
     "@types/react-dom": "17.0.8",
     "@types/react-redux": "7.1.16",
-    "@types/react-router-dom": "5.1.7",
+    "@types/react-router-dom": "5.3.3",
     "@types/react-test-renderer": "17.0.1",
     "@types/rimraf": "3.0.2",
     "@types/shelljs": "0.8.9",
@@ -57,7 +57,7 @@
     "stylelint-config-recommended": "5.0.0",
     "stylelint-config-styled-components": "0.1.1",
     "stylelint-processor-styled-components": "1.10.0",
-    "ts-node": "10.0.0",
+    "ts-node": "10.7.0",
     "typescript": "4.2.2",
     "web-vitals": "2.1.0"
   },
